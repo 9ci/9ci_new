@@ -1,0 +1,194 @@
+@media screen and (min-width: 200px) and (max-width: 684px) {
+    h2{
+        font-size: 26px!important;
+    }
+    h3{
+        font-size: 19px!important;
+    }
+    .solution_blocks_sec h3.medium{
+        font-size: 22px!important;
+    }
+    .banner_des h1{
+        font-size: 25px;
+        padding: 0 0 20px 0;
+    }
+    .banner_des p{
+        font-size: 16px!important;
+    }
+    .bx-wrapper .bx-prev, .bx-wrapper .bx-next{
+        background-size: 18px!important;
+    }
+    .how_to_help article{
+        min-height: inherit;
+    }
+    .footer_links{
+        width: 100%;
+        margin: 0;
+    }
+    .footer_links ul li {
+        display: inline-block;
+        padding: 0 5px 0 0;
+    }
+    .banner, .banner img{
+        height: 500px;
+    }
+    .banner a.button01, .schedule_sec a.button01{
+        padding: 12px 25px;
+        font-size: 14px;
+    }
+    .banner_des{
+        top: 20%;
+    }
+    .bx-wrapper .bx-pager{
+        display: none;
+    }
+    .client_slide_block .bx-wrapper .bx-pager, .client_logo .bx-wrapper .bx-pager{
+        display: block;
+    }
+/*
+    .header.bg_change .logo img{
+        max-width: 27%;
+    }
+    .header .logo img{
+        max-width: 35%;
+    }
+    .logo{
+        margin: 0 0 20px 0;
+    }
+    .header .container{
+        padding: 10px 0 0 0;
+    }
+*/
+    .banner_des h1, .banner_des p{
+        max-width: 80%;
+    }
+    .bx-wrapper .bx-prev{
+        left: 3%;
+    }
+    .bx-wrapper .bx-next{
+        right: 3%;
+    }
+    .great_solutions ul li, .how_to_help ul li{
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        width: 90%;
+        margin: 0 2.5% 30px 2.5%!important;
+    }
+    .solution_block ul li{
+        width: 90%;
+        margin: 0 2.5% 30px 2.5%!important;
+    }
+    .solution_block ul li span{
+        padding: 0 0 10px 0;
+        width: 30%;
+        float: left;
+    }
+    .solution_block ul li h3, .solution_block ul li p{
+        padding: 0 0 5px 3%;
+        width: 67%;
+        float: right;
+        text-align: left;
+    }
+    .solution_block ul li h3{
+        font-size: 18px!important;
+    }
+    .solution_blocks_sec h2{
+        padding: 0 0 10px 0;
+    }
+    .quote_left, .quote_right{
+        background-size: 40px;
+        width: 40px;
+        height: 32px;
+    }
+    .quote_right{
+        bottom: 40px;
+    }
+    .how_to_help ul {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .how_to_help ul li h3{
+        padding: 0 0 15px 0;
+    }
+    .schedule_sec p, .schedule_sec h2{
+        width: 100%;
+    }
+    .schedule_sec a.button01{
+        margin: 0 0;
+    }
+    .solution_des h2{
+        padding: 0 0 10px 0;
+    }
+    .solution_des_section, .solution_block, .great_solutions, .work_sec, .schedule_sec, .client_sec, .how_to_help{
+        padding: 40px 0 40px 0;
+    }
+    .solution_des p{
+        padding: 0 5% 15px 5%;
+    }
+    .solution_block ul{
+        padding: 0;
+    }
+    .great_solutions ul li h3{
+        padding: 0 0 5px 0;
+    }
+    .circle{
+        width: 242px;
+        height: 242px;
+    }
+    .circle_segment_1, .circle_segment_2, .circle_segment_3, .circle_segment_4{
+        width: 121px;
+        height: 121px;
+    }
+    .circle span.top{
+        padding: 55px 10px 0 13px;
+    }
+    .circle span.bottom{
+        padding: 32px 10px 0 10px;
+    }
+    .circle span{
+        font-size: 12px;
+    }
+    .solution_block ul li:last-child{
+        margin: 0 2.5% 30px 2.5%!important;
+    }
+    .solution_block ul li span img{
+        max-width: 85%;
+        border: 3px solid #01619e;
+    }
+    .solution_blocks_sec h3.medium{
+        padding: 0 0 25px 5%;
+        text-align: left;
+    }
+    .great_solutions h2{
+        padding: 0 0 10px 0;
+    }
+    .great_solutions ul{
+        padding: 30px 0 0;
+        text-align: center;
+    }
+    .work_sec h2 span, .how_to_help h2 span, .client_slide_block h3, .client_slide_block {
+        width: 100%;
+    }
+    .client_slide_block h3{
+        padding: 0 0 15px 0;
+    }
+    .client_slide_block p{
+        width: 76%;
+    }
+    .client_slide_block .name{
+        font-size: 25px;
+    }
+    .client_logo ul li img{
+        opacity: 1;
+    }
+    .client_logo .bx-wrapper{
+        width:100%!important;
+        padding: 10% 0 15% 0;
+    }
+/*
+    .client_logo ul li{
+        width: 300px!important;
+    }
+*/
+}

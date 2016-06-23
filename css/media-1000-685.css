@@ -1,0 +1,74 @@
+@media screen and (min-width: 685px) and (max-width: 1024px) {
+
+    
+    .how_to_help article{
+        min-height: 180px;
+    }
+    .footer_links{
+        width: 50%;
+        margin: 0;
+    }
+    .banner, .banner img{
+        height: 500px;
+    }
+    .banner a.button01, .schedule_sec a.button01{
+        padding: 12px 25px;
+        font-size: 14px;
+    }
+    
+/*
+    .header.bg_change .logo img{
+        max-width: 27%;
+    }
+    .header .logo img{
+        max-width: 35%;
+    }
+    .logo{
+        margin: 0 0 20px 0;
+    }
+    .header .container{
+        padding: 10px 0 0 0;
+    }
+*/
+    .banner_des h1, .banner_des p{
+        max-width: 80%;
+    }
+    .bx-wrapper .bx-prev{
+        left: 3%;
+    }
+    .bx-wrapper .bx-next{
+        right: 3%;
+    }
+    .solution_block ul li, .great_solutions ul li, .how_to_help ul li{
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        width: 44%;
+        margin: 0 2.5% 30px 2.5%!important;
+    }
+    .solution_blocks_sec h2{
+        padding: 0 0 10px 0;
+    }
+    .quote_left, .quote_right{
+        background-size: 50px;
+    }
+    .quote_right{
+        bottom: 30px;
+    }
+    .how_to_help ul {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .how_to_help ul li h3{
+        padding: 0 0 15px 0;
+    }
+    .client_logo .bx-wrapper{
+        width:90%!important;
+        padding: 0 0 5% 0;
+    }
+}
+@media screen and (min-width: 685px) and (max-width: 850px) {
+    .banner_des h1{
+        font-size: 38px;
+    }
+}
