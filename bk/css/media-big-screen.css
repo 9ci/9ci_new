@@ -1,12 +1,3 @@
-/*
-    Theme Name: 9ci project
-    Author: Artemas technologies
-    Author URL: http://artemasdigital.com/
-    Description: 9ci 2016.
-	Document   : Framework
-	Created on : June 16, 2016, 11:51:00 AM
-*/
-
 @media screen and (min-width: 1025px) and (max-width: 1600px) {
 
 	body {
@@ -47,9 +38,6 @@
     }
     .how_to_help ul li h3{
         padding: 0 25px 15px 25px;
-    }
-    .container{
-        max-width: 95%;
     }
 }
 @media screen and (min-width: 1025px) {
